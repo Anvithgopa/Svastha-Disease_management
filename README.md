@@ -1,1 +1,2 @@
-# Svastha-Disease_management
+# Svastha
+#DISEASE MANAGEMENT SYSTEM - DBMS Project
